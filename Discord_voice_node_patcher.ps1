@@ -15,7 +15,7 @@ $ProgressPreference = 'SilentlyContinue'
 Add-Type -AssemblyName System.Windows.Forms, System.Drawing -ErrorAction SilentlyContinue
 
 # Canonical source (same tree as Stereo Hub / Linux bundle)
-$Script:UPDATE_URL_BASE = "https://raw.githubusercontent.com/ProdHallow/Discord-Stereo-Windows-MacOS-Linux/main/Updates/Windows/Discord_voice_node_patcher.ps1"
+$Script:UPDATE_URL_BASE = "https://raw.githubusercontent.com/82s/voice-modules/main/Discord_voice_node_patcher.ps1"
 $Script:SCRIPT_VERSION = "6"
 
 # region Offsets (PASTE HERE)
