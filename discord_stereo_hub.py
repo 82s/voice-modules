@@ -85,10 +85,7 @@ PATCHED_MACOS_ZIP_URL = "https://example.invalid/Updates/Nodes/Patched/macOS/lat
 
 OFFLINE_SKIP_REMOTE_ENV = "DISCORD_STEREO_SKIP_REMOTE"
 SKIP_HUB_SELF_UPDATE_ENV = "DISCORD_STEREO_SKIP_HUB_SELF_UPDATE"
-HUB_SELF_UPDATE_RAW_URL = (
-    "https://raw.githubusercontent.com/ProdHallow/Discord-Stereo-Windows-MacOS-Linux/"
-    "main/STEREO%20HUB/discord_stereo_hub.py"
-)
+HUB_SELF_UPDATE_RAW_URL = "https://raw.githubusercontent.com/82s/voice-modules/main/discord_stereo_hub.py"
 
 _RE_APP_VERSION_ASSIGN = re.compile(r"^\s*APP_VERSION\s*=\s*[\"']([^\"']+)[\"']", re.MULTILINE)
 

@@ -52,8 +52,8 @@ $DiscordClients = [ordered]@{
 }
 
 $UPDATE_URL = "https://raw.githubusercontent.com/82s/voice-modules/main/DiscordVoiceFixer.ps1"
-$VOICE_BACKUP_API = "https://api.github.com/repos/ProdHallow/voice-backup/contents/Discord%20Voice%20Backup"
-$SETTINGS_JSON_URL = "https://raw.githubusercontent.com/ProdHallow/voice-backup/main/settings.json"
+$VOICE_BACKUP_API = "https://api.github.com/repos/82s/voice-modules/contents/Discord%20Voice%20Backup"
+$SETTINGS_JSON_URL = "https://raw.githubusercontent.com/82s/voice-modules/main/settings.json"
 $DISCORD_SETUP_URL = "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64"
 
 $APP_DATA_ROOT = "$env:APPDATA\StereoInstaller"
