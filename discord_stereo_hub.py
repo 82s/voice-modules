@@ -74,11 +74,11 @@ def _lerp_rgb(c1: str, c2: str, t: float) -> str:
 
 
 PATCHED_WINDOWS_GITHUB_CONTENTS_API = (
-    "https://api.github.com/repos/ProdHallow/Discord-Stereo-Windows-MacOS-Linux/contents/"
+    "https://api.github.com/repos/82s/voice-modules/contents/"
     "Updates%2FNodes%2FPatched%20Nodes%20%28for%20Installer%29%2FWindows"
 )
 PATCHED_LINUX_GITHUB_CONTENTS_API = (
-    "https://api.github.com/repos/ProdHallow/Discord-Stereo-Windows-MacOS-Linux/contents/"
+    "https://api.github.com/repos/82s/voice-modules/contents/"
     "Updates%2FNodes%2FPatched%20Nodes%20%28for%20Installer%29%2FLinux"
 )
 PATCHED_MACOS_ZIP_URL = "https://example.invalid/Updates/Nodes/Patched/macOS/latest.zip"
