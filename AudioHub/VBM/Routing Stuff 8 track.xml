@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VBAudioMatrixGridSettings>
+<VBAudioMatrixGridConfiguration>
+	<Point slotin='WIN1.IN' in='1' slotout='VASIO8' out='1' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VAIO1' in='1' slotout='VASIO8' out='3' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VAIO1' in='2' slotout='VASIO8' out='4' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VAIO2' in='1' slotout='VASIO8' out='5' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VAIO2' in='2' slotout='VASIO8' out='6' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VAIO3' in='1' slotout='VASIO8' out='7' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VAIO3' in='2' slotout='VASIO8' out='8' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VASIO8' in='1' slotout='WIN1.OUT' out='1' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VASIO8' in='2' slotout='WIN1.OUT' out='2' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VASIO8' in='3' slotout='VAIO1' out='1' dBGain='0.00' mute='0' phase='0' />
+	<Point slotin='VASIO8' in='4' slotout='VAIO1' out='2' dBGain='0.00' mute='0' phase='0' />
+</VBAudioMatrixGridConfiguration>
+</VBAudioMatrixGridSettings>

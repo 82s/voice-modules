@@ -1,0 +1,18 @@
+# Windows
+desktop.ini
+Thumbs.db
+*.Identifier
+
+# Logs and runtime caches
+logs/
+backups/
+*.log
+*.tmp
+*.bak
+*.original_backup
+
+# Large Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
